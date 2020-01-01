@@ -4,8 +4,10 @@
 
 * Prepare developer laptop (OS, Dev IDE)
 * Install Tensorflow object detection example [project](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android)
-* Modify model by re-classifying object to fit recycling categories
+* Modify model by re-classifying object detection according to recycling categories
+* Customize Android or ios mobile application
 * Train model to detect new objects
+* Publish app in store
 
 ## Organisation
 In order to participate in this project you must have a [GitHub](https://github.com/join) account.
@@ -19,7 +21,7 @@ All documentation will be in [Markdown](https://en.wikipedia.org/wiki/Markdown) 
 
 ## Code of Conduct
 
-This code of conduct outlines expectations for participation in TensorflowRUS community, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
+This code of conduct outlines expectations for participation in TensorflowRUs community, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
 
 Our community strives to:
 
