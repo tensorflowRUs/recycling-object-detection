@@ -1,4 +1,4 @@
-#Recycling Object Detection
+# Recycling Object Detection
 
 ## Goals
 
